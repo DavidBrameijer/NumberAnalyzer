@@ -9,7 +9,7 @@ do
 {
     Console.WriteLine($"Thank you {name}. Please choose a number from 1 to 100.");
     number = int.Parse(Console.ReadLine());
-    if (number % 2 == 0 && number >= 0 && number <= 100)
+    if (number % 2 == 0 && number > 0 && number <= 100)
     {
         if (number >= 2 && number <= 24)
         {
@@ -24,7 +24,7 @@ do
             Console.WriteLine($"{name} your number is even and greater than 60.");
         }
     }
-    else if (number % 2 != 0 && number >= 0 && number <= 100)
+    else if (number % 2 != 0 && number > 0 && number <= 100)
     {
         if (number < 60)
         {
