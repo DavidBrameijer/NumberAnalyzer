@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\16167\\source\\repos\\NumberAnalyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4794EA7-6A89-4642-9417-ACB36F2C0519}|NumberAnalyzer\\NumberAnalyzer.csproj|c:\\users\\16167\\source\\repos\\numberanalyzer\\numberanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4794EA7-6A89-4642-9417-ACB36F2C0519}|NumberAnalyzer\\NumberAnalyzer.csproj|solutionrelative:numberanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\16167\\source\\repos\\NumberAnalyzer\\NumberAnalyzer\\Program.cs",
+              "RelativeDocumentMoniker": "NumberAnalyzer\\Program.cs",
+              "ToolTip": "C:\\Users\\16167\\source\\repos\\NumberAnalyzer\\NumberAnalyzer\\Program.cs",
+              "RelativeToolTip": "NumberAnalyzer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T17:40:22.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
