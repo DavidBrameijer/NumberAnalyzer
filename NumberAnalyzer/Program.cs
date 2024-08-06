@@ -47,9 +47,13 @@ do
         Console.WriteLine($"{name} Thanks for playing!");
         break;
     }
-    else
+    else if (choice == "y")
     {
         continue;
+    }
+    else
+    {
+        Console.WriteLine($"Invalid choice, {name}. Please play again.");
     }
 }
 
